@@ -1,0 +1,7 @@
+C:\Users\Marin\source\repos\vjezbaOoBudicMarin\bin\Debug\vjezbaOoBudicMarin.exe.config
+C:\Users\Marin\source\repos\vjezbaOoBudicMarin\bin\Debug\vjezbaOoBudicMarin.exe
+C:\Users\Marin\source\repos\vjezbaOoBudicMarin\bin\Debug\vjezbaOoBudicMarin.pdb
+C:\Users\Marin\source\repos\vjezbaOoBudicMarin\obj\Debug\vjezbaOoBudicMarin.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\vjezbaOoBudicMarin\obj\Debug\vjezbaOoBudicMarin.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\vjezbaOoBudicMarin\obj\Debug\vjezbaOoBudicMarin.exe
+C:\Users\Marin\source\repos\vjezbaOoBudicMarin\obj\Debug\vjezbaOoBudicMarin.pdb
